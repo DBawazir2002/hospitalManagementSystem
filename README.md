@@ -6,8 +6,9 @@
 # 2. composer install
 # 3. npm install
 # 4. php artisan key:generate
-# 5. php artisan serve
-# 6. npm run dev
+# 5. php artisan migrate --seed
+# 6. php artisan serve
+# 7. npm run dev
 
 # To access admin dashboard these credentials:
 # 1. email => admin@gmail.com
